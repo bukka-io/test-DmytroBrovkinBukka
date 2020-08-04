@@ -3,7 +3,7 @@
     {
       "name": "The test",
       "setup": "",
-      "run": "make test",
+      "run": "make testion",
       "input": "",
       "output": "",
       "comparison": "included",
